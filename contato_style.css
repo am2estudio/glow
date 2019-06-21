@@ -1,10 +1,10 @@
 @font-face {
-    src: url(fonts/moolbor.ttf);
+    src: url(Fonts/moolbor.ttf);
     font-family: MoolBoran;
 }
 
 @font-face {
-	src: url(fonts/Roboto-Regular.ttf);
+	src: url(Fonts/Roboto-Regular.ttf);
 	font-family: Roboto;
 }
 
